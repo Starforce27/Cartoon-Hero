@@ -1,15 +1,17 @@
 body{
-background-color: mediumspringgreen;
+	background-color: mediumspringgreen;
 }
 <style type="text/css">
-h1{font-size: 30px;
+h1{
+	font-size: 30px;
 	color: orangered;
 }
 h2{
 	color: red;
 	font-size: 100px;
 }
-h2{color: whitesmoke;
+h2{
+	color: whitesmoke;
 }
 
 .big{
